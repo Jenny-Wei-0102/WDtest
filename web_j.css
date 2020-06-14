@@ -240,7 +240,8 @@ a{
 }
 .flex-tips { 
   display: flex;
-  flex-direction: 'row';
+  flex-direction: row;
+  align-items: flex-start;
   border: 45px;
   margin:30px;
 }
